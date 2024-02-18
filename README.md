@@ -6,6 +6,7 @@ This project is a data visualisation of monthly global land-surface temperature 
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -28,6 +29,10 @@ This project is a data visualisation of monthly global land-surface temperature 
 1. Clone the repository: `git clone https://github.com/your-username/temperature-heat-map.git`
 2. Navigate to the project directory: `cd temperature-heat-map`
 3. Install dependencies: `npm install`
+
+## Demo
+
+You can see a live demo of the project [here](https://temperature-heatmap-visualisation.netlify.app/).
 
 ## Usage
 
