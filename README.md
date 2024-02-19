@@ -26,7 +26,7 @@ This project is a data visualisation of monthly global land-surface temperature 
 
 ## Installation
 
-1. Clone the repository: `git clone [rep](https://github.com/tarek-gritli/temperature-heatmap-using-d3.js.git)`
+1. Clone the repository: `git clone https://github.com/tarek-gritli/temperature-heatmap-using-d3.js.git`
 2. Navigate to the project directory: `cd temperature-heat-map`
 3. Install dependencies: `npm install`
 
